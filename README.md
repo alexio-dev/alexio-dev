@@ -1,6 +1,7 @@
 # About Me:
 I'm passionate about technology, especially when it comes to web and mobile development. What interest me most is the ability to turn ideas into interactive experiences that people can actually use.
 
+## Views
 ![](https://komarev.com/ghpvc/?username=alexio-dev&color=81A1C1)
 
 ## Socials:
